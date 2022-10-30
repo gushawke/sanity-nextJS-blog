@@ -6,8 +6,14 @@ export default {
     {
       name: 'title',
       title: 'Title',
+      description: "Keep Titles Short",
       type: 'string',
-    },
+    }, 
+    {
+      name: 'description',
+      title: 'Description',
+      type: 'string',
+    }, 
     {
       name: 'slug',
       title: 'Slug',

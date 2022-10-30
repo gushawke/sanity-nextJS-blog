@@ -8,5 +8,8 @@
 # Dependency directories
 node_modules
 
+sanityyoutube/node_modules
+
+
 # Compiled sanity studio
 /dist
